@@ -253,7 +253,7 @@ section.brand-card {
     line-height: 30px;
 }
 .brand-card-overly {
-    background-image: url(https://bimberonline.com/betcourse/wp-content/uploads/sites/30/2022/06/hand-brushing-snooker-pool-billards-table-with-balls-and-cue.jpg);
+    background-image: url(images/card1.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -270,13 +270,13 @@ section.brand-card {
     background: #ff5c00;
 }
 .brand-card-overly.brand-box2-overly {
-    background-image: url(https://bimberonline.com/betcourse/wp-content/uploads/sites/30/2022/06/basketball-in-hoop.jpg);
+    background-image: url(images/card2.jpg);
 }
 .box-card-content-box.brand-box3 {
     background: #42b77d;
 }
 .brand-card-overly.brand-box3-overly {
-    background-image: url(https://bimberonline.com/betcourse/wp-content/uploads/sites/30/2022/06/athletic-soccer-player-kicking-ball-on-soccer-pitch.jpg);
+    background-image: url(images/card3.jpg);
 }
 /* brand card end */
 /* match card area start */
