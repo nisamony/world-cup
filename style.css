@@ -653,6 +653,7 @@ span.elip {
  /* match card area start  */
  .match-left-board {
     flex-basis: 100%;
+    height: auto;
  }
  .match-right-cards-area {
     flex-basis: 100%;
@@ -662,9 +663,7 @@ span.elip {
     flex-basis: 100%;
     margin-left: 0;
 }
-
  /* match card area end */
-
  /* main end */
 /* footer  */
 .footer-content-box {
@@ -680,8 +679,6 @@ span.elip {
     padding-top: 60px;
 }
 /* footer end */
-
-
 }
 /* tablet device re */
 @media screen and (min-width:688px) and (max-width:1024px) {
@@ -735,7 +732,6 @@ span.elip {
 .box-card-content-box {
     flex-basis: 30%;
 }
-
 /* match card area start */
 .match-left-board {
     flex-basis: 100%;
@@ -779,7 +775,6 @@ section.match-card-area {
     flex-basis: 29%;
 }
 /* match card area start */
-
 }
 @media screen and (min-width:992px) and (max-width:1300px) {
     .container {
